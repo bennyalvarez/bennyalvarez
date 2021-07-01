@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bennyalvarez
-<h3>I feel like this pandemic has given me a second chance in life after getting ill.  I'm changing my health for the better and I've been blessed with an opportunity to change careers to software development. I am so grateful and will do my best.</h3>
+<h3>Hey Y'all! Full-Stack Software Developer and current student at Codeup! </h3>
 - 👀 I’m interested in ...
     <p>a career in software development/engineering with a reputable company that impacts many for the better. </p>
 - 🌱 I’m currently learning ...
