@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bennyalvarez
-<h3>Hey Y'all! Full-Stack Software Developer and current student at Codeup! </h3>
+<h3>Hey Y'all! Full-Stack Software Developer and graduate from Codeup! </h3>
 - 👀 I’m interested in ...
     <p>a career in software development/engineering with a reputable company that impacts many for the better. </p>
 - 🌱 I’m currently learning ...
